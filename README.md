@@ -19,6 +19,4 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![JisooRyu99's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true&theme=buefy)
-
-![JisooRyu99's github stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true)
+![JisooRyu99's github stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true&theme=buefy)
