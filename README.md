@@ -21,4 +21,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true&theme=buefy)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true&theme=buefy)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true&theme=dracula)
+
