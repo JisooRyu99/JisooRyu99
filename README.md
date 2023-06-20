@@ -17,7 +17,8 @@
  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black">  
  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=black">  
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<!--<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![JisooRyu99's github stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true)
+![JisooRyu99's github stats](https://github-readme-stats.vercel.app/api?username=JisooRyu99&show_icons=true
+-->
