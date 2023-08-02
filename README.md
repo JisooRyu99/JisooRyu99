@@ -2,7 +2,7 @@
 <h1 align="left"><b> Jisoo Ryu</b></h1>
 
 <h4 align="left"><b>
-Jisoo's log <a href="https://velog.io/@js03210/about"><img align="center" src="https://img.shields.io/badge/Jisoo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
+Jisoo's log <a href="https://velog.io/@js03210/"><img align="center" src="https://img.shields.io/badge/Jisoo.log-3DDC84?style=badge&logo=Velog&logoColor=white"/></a> 
 <a href="mailto:cussion09@gmail.com"> </b></h4>
 <h4 align="left"><b>
 Contact Me <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:cussion09@gmail.com"/></a> 
