@@ -1,9 +1,10 @@
+
 <h3 align='left'>Hi, I'm Jisoo</h3>
 
 📖  I’m currently studying Artificial Intelligence, Machine Learning, Deep Learning.
 
 ---
-  <a href="https://github.com/js03210/velog-readme-stats"><img align="right" src="https://velog-readme-stats.vercel.app/api/list?name=js03210"/></a>
+<a href="https://velog.io/@js03210/"><img align="right" src="https://velog-readme-stats.vercel.app/api/list?name=js03210"/></a>
 
 
 <h4 align="left"><b>
