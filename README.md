@@ -1,4 +1,5 @@
 
+
 <h3 align='left'>Hi, I'm Jisoo</h3>
 
 📖  I’m currently studying Artificial Intelligence, Machine Learning, Deep Learning.
@@ -22,7 +23,8 @@ Contact Me <img align="center" src="https://img.shields.io/badge/Gmail-D14836?st
 
 - AI
 - Recommendation System
-- Computer Vision
+- `LLM (Large Language Model)` - I'm currently studying.
+  
 </div>
 
 
